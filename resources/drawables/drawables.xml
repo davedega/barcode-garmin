@@ -1,0 +1,6 @@
+<drawables>
+	<bitmap id="LauncherIcon" filename="launcher_icon.jpeg" />
+	<bitmap id="JumboCode" filename="jumbo.jpeg" />
+	<bitmap id="AlberHeijnCode" filename="albertHeijn.jpeg" />
+	<bitmap id="LidlCode" filename="lidl2.jpeg" />
+</drawables>

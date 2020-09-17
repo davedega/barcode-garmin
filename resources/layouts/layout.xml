@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+	<bitmap id="barcodeBitmap" x="center" y="center"
+		filename="../drawables/jumbo.jpeg" />
+</layout>

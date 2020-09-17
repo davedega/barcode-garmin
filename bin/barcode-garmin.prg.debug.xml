@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminApp.mc" id="6" lineNum="21" pc="268435517" symbol="getInitialView"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="8" lineNum="7" pc="268435567" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="8" lineNum="8" pc="268435571" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="9" lineNum="12" pc="268435590" symbol="onLayout"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="9" lineNum="13" pc="268435594" symbol="onLayout"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="9" lineNum="14" pc="268435631" symbol="onLayout"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="10" lineNum="24" pc="268435730" symbol="onShow"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="11" lineNum="28" pc="268435735" symbol="onUpdate"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="11" lineNum="30" pc="268435739" symbol="onUpdate"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="12" lineNum="36" pc="268435760" symbol="onHide"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="13" lineNum="39" pc="268435765" symbol="showCode"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="13" lineNum="40" pc="268435769" symbol="showCode"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="13" lineNum="41" pc="268435787" symbol="showCode"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="13" lineNum="42" pc="268435794" symbol="showCode"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminView.mc" id="13" lineNum="44" pc="268435820" symbol="showCode"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminDelegate.mc" id="15" lineNum="7" pc="268435837" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminDelegate.mc" id="15" lineNum="8" pc="268435841" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminDelegate.mc" id="15" lineNum="9" pc="268435851" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminDelegate.mc" id="16" lineNum="12" pc="268435870" symbol="onMenu"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminDelegate.mc" id="16" lineNum="13" pc="268435874" symbol="onMenu"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminDelegate.mc" id="16" lineNum="14" pc="268435966" symbol="onMenu"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="18" lineNum="8" pc="268435970" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="18" lineNum="9" pc="268435974" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="18" lineNum="10" pc="268435992" symbol="initialize"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="13" pc="268436003" symbol="onMenuItem"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="14" pc="268436007" symbol="onMenuItem"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="15" pc="268436018" symbol="onMenuItem"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="16" pc="268436044" symbol="onMenuItem"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="17" pc="268436055" symbol="onMenuItem"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="18" pc="268436081" symbol="onMenuItem"/>
+        <entry filename="/Users/dave/Developer/eclipse-workspace/barcode-garmin/source/barcodegarminMenuDelegate.mc" id="19" lineNum="19" pc="268436092" symbol="onMenuItem"/>
+        <entry filename="Rez" id="25" lineNum="19" pc="268436119" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="21" pc="268436131" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="22" pc="268436250" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="24" pc="268436302" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="37" pc="268436320" symbol="initialize"/>
+        <entry filename="Rez" id="28" lineNum="38" pc="268436324" symbol="initialize"/>
+        <entry filename="Rez" id="28" lineNum="39" pc="268436342" symbol="initialize"/>
+        <entry filename="Rez" id="28" lineNum="40" pc="268436398" symbol="initialize"/>
+        <entry filename="Rez" id="28" lineNum="41" pc="268436454" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="12" object="true" symbol="barcodegarminMenuDelegate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="23" method="true" symbol="MainLayout"/>
+        <entry field="true" id="24" symbol="menu_label_lidl"/>
+        <entry field="true" id="17" symbol="JumboCode"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="28" symbol="mView"/>
+        <entry field="true" id="18" symbol="AlberHeijnCode"/>
+        <entry field="true" id="27" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="31" symbol="item_3"/>
+        <entry id="30" symbol="item_2"/>
+        <entry id="29" symbol="item_1"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="26" symbol="menu_label_albert_heijn"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="25" symbol="menu_label_jumbo"/>
+        <entry id="14" method="true" symbol="showCode"/>
+        <entry id="10" object="true" symbol="barcodegarminView"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="11" object="true" symbol="barcodegarminDelegate"/>
+        <entry id="22" object="true" symbol="MainMenu"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="20" symbol="barcodeBitmap"/>
+        <entry field="true" id="13" symbol="_bitmaps"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="21" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="19" symbol="LidlCode"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="9" object="true" symbol="barcodegarminApp"/>
+        <entry id="15" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435566" name="view" stackId="1" startPc="268435493"/>
+        <entry arg="true" endPc="268435730" name="dc" stackId="1" startPc="268435590"/>
+        <entry arg="true" endPc="268435760" name="dc" stackId="1" startPc="268435735"/>
+        <entry endPc="268435836" name="bitmap" stackId="2" startPc="268435769"/>
+        <entry arg="true" endPc="268435837" name="barcode" stackId="1" startPc="268435765"/>
+        <entry arg="true" endPc="268435870" name="view" stackId="1" startPc="268435837"/>
+        <entry arg="true" endPc="268436003" name="view" stackId="1" startPc="268435970"/>
+        <entry arg="true" endPc="268436119" name="item" stackId="1" startPc="268436003"/>
+        <entry endPc="268436319" name="rez_cmp_local_bitmap_barcodeBitmap" stackId="2" startPc="268436131"/>
+        <entry arg="true" endPc="268436320" name="dc" stackId="1" startPc="268436119"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="barcodegarminView" type="class"/>
+        <dataEntry offset="261" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="340" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="411" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="450" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="497" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="528" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="567" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="598" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="661" parentId="globals" symbolId="barcodegarminDelegate" type="class"/>
+        <dataEntry offset="724" parentId="globals" symbolId="barcodegarminApp" type="class"/>
+        <dataEntry offset="795" parentId="globals" symbolId="barcodegarminMenuDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="barcodegarminApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="barcodegarminApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="barcodegarminApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="barcodegarminApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="barcodegarminView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="barcodegarminView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="barcodegarminView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="barcodegarminView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="barcodegarminView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="showCode" parent="barcodegarminView">
+            <param id="barcode"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="barcodegarminDelegate">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="barcodegarminDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="barcodegarminMenuDelegate">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="barcodegarminMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
